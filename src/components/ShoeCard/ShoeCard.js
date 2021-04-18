@@ -76,7 +76,6 @@ const Link = styled.a`
   color: inherit;
   flex: 1 1 300px;
   min-width: 250px;
-  max-width: 350px;
   position: relative;
 `;
 
